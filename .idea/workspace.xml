@@ -15,7 +15,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e43718-dd2d-4b64-bee6-119475e8ddac" name="Changes" comment="">
+    <list default="true" id="34e43718-dd2d-4b64-bee6-119475e8ddac" name="Changes" comment="add">
       <change afterPath="$PROJECT_DIR$/blog/dist/assets/dioxus/blog.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blog/dist/assets/dioxus/blog_bg.wasm" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blog/dist/assets/dioxus/snippets/dioxus-interpreter-js-459fb15b86d869f7/src/interpreter.js" afterDir="false" />
@@ -154,11 +154,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670146470808</updated>
-      <workItem from="1670146472626" duration="13076000" />
+      <workItem from="1670146472626" duration="13382000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
