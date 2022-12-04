@@ -12,7 +12,7 @@
     </configurations>
   </component>
   <component name="CargoProjects">
-    <cargoProject FILE="$PROJECT_DIR$/blog/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34e43718-dd2d-4b64-bee6-119475e8ddac" name="Changes" comment="">
@@ -61,7 +61,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/ewozniak/dev/rs/blog-rust/blog/Cargo.toml",
+    "last_opened_file_path": "/home/ewozniak/dev/rs/blog-rust/Cargo.toml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,13 +74,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/dist" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="cargo build" />
       <command value="cargo run" />
+      <command value="cargo build" />
     </option>
   </component>
-  <component name="RunManager" selected="Cargo.run">
+  <component name="RunManager" selected="Cargo.build">
     <configuration name="build" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="build" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -126,6 +136,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.build" />
         <item itemvalue="Cargo.run" />
         <item itemvalue="Cargo.build" />
         <item itemvalue="Cargo.run" />
@@ -143,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670146470808</updated>
-      <workItem from="1670146472626" duration="11867000" />
+      <workItem from="1670146472626" duration="13076000" />
     </task>
     <servers />
   </component>
