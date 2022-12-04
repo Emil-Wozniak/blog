@@ -1,8 +1,8 @@
 [package]
 name = "blog"
 version = "0.1.0"
-authors = ["Emil Woźniak <emil.wozniak.591986@gmail.com>"]
-edition = "2021"
+edition = "2018"
+#authors = ["Emil Woźniak <emil.wozniak.591986@gmail.com>"]
 
 [dependencies]
 dioxus = { version = "0.2.4", features = ["web", "router"] }
