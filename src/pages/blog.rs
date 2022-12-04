@@ -12,7 +12,7 @@ pub fn posts(cx: Scope) -> Element {
                         address { class: "flex items-center mb-6 not-italic",
                             div { class: "inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white",
                                 img { class: "mr-4 w-16 h-16 rounded-full",
-                                    src: "https://flowbite.com/docs/images/people/profile-picture-2.jpg" ,
+                                    src: "/me.jpg" ,
                                     alt: "my image"
                                 }
                                 div {
