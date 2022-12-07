@@ -38,3 +38,7 @@ dioxus build --release
 - - utils # save some public function
 - - components # save some custom components
 ```
+
+## Reason
+
+Migration from https://gitlab.com/Emil_Wozniak/blog

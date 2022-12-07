@@ -1,6 +1,6 @@
-use dioxus::{prelude::*, };
+use dioxus::prelude::*;
 
-pub fn cv(cx: Scope) -> Element {
+pub fn CV(cx: Scope) -> Element {
     cx.render(rsx!(
         body {
             div {
