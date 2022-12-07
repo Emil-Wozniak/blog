@@ -37,9 +37,7 @@ pub fn Page(cx: Scope) -> Element {
             return None
         }
     });
-    match future {
-        Some(json) =>
-    }
+
     cx.render(rsx! {
             div { class: "container p-2 m-2",
                 button {
