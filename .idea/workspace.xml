@@ -16,27 +16,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34e43718-dd2d-4b64-bee6-119475e8ddac" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/posts/first.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/head.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/secret_page.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/supabase.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/files.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/mod.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dioxus.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Dioxus.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/dioxus/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/dioxus/blog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/dioxus/blog_bg.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/dioxus/blog_bg.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/nav.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cv.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/cv.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/first.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/head.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/head.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,28 +54,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ewozniak/dev/rs/blog-rust/scripts/serve_dev.sh&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
-    &quot;org.rust.disableDetachedFileInspection/home/ewozniak/dev/rs/blog-rust/hello/src/main.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.disableDetachedFileInspection/home/ewozniak/dev/rs/blog-rust/src/components/nav.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.disableDetachedFileInspection/home/ewozniak/dev/rs/blog-rust/src/components/product_page.rs&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last.edited.regexp": " <p>&lt;sup&gt; ― Jeffrey Gitomer &lt;/sup&gt;</p>",
+    "last_opened_file_path": "/home/ewozniak/dev/rs/blog-rust/scripts/serve_dev.sh",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.disableDetachedFileInspection/home/ewozniak/dev/rs/blog-rust/hello/src/main.rs": "true",
+    "org.rust.disableDetachedFileInspection/home/ewozniak/dev/rs/blog-rust/src/components/nav.rs": "true",
+    "org.rust.disableDetachedFileInspection/home/ewozniak/dev/rs/blog-rust/src/components/product_page.rs": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
@@ -200,8 +187,24 @@
       <workItem from="1670171348112" duration="6431000" />
       <workItem from="1670343736643" duration="4239000" />
       <workItem from="1670349546391" duration="4851000" />
-      <workItem from="1670436048052" duration="4224000" />
+      <workItem from="1670436048052" duration="5070000" />
+      <workItem from="1670682310906" duration="10101000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1670440332931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670440332931</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <created>1670440347272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670440347272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
